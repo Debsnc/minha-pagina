@@ -1,0 +1,35 @@
+h1{
+    color: darkgreen;font-size: 65px; font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;
+}
+.paragrafoPrincipal{ 
+    font-size: 25px; text-align: justify;
+}
+p{
+    font-size: 20px;
+}
+ul li{
+    margin: 10px;
+}
+.imagensMaiores img{ border-radius: 1cap;}
+body{background-color: rgb(216, 216, 213);}
+table{
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+td{
+    padding: 15px;
+    text-align: center;
+}
+td img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+td.texto{
+    font-size: 18px;
+    color: #333333;
+    width: 150px;
+    text-align: right;
+}
+a:hover{color: darkred;} 
